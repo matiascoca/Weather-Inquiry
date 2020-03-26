@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -58.45, "lat": -34.6 },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.67,
+    "feels_like": 22.58,
+    "temp_min": 21.11,
+    "temp_max": 22.22,
+    "pressure": 1016,
+    "humidity": 83
+  },
+  "visibility": 10000,
+  "wind": { "speed": 3.1, "deg": 170 },
+  "clouds": { "all": 75 },
+  "dt": 1585147142,
+  "sys": {
+    "type": 1,
+    "id": 8224,
+    "country": "AR",
+    "sunrise": 1585130470,
+    "sunset": 1585173473
+  },
+  "timezone": -10800,
+  "id": 3433955,
+  "name": "Buenos Aires F.D.",
+  "cod": 200
+}
